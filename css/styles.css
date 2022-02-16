@@ -1,8 +1,13 @@
 body{
-    background-color: aqua;
+    background-color: rgb(20, 211, 211);
 }
 
 a:hover{ 
-    color:brown;
+    font-size: large;
+    color:rgb(17, 219, 51);
+
+}
+.section-contacts , ol>li> a{
+    color: rgb(172, 106, 235);
 }
 
