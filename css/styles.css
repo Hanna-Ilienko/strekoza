@@ -12,3 +12,6 @@ a:hover{
 }
 
 .accent{ color: rgb(21, 153, 71); font-size: xx-large;}
+table,
+table th,
+table td {border: 1px solid #2a2a2a;}
